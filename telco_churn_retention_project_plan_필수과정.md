@@ -1,10 +1,10 @@
-# 통신사 고객 이탈 예측 및 자동 리텐션 에이전트 프로젝트 계획서 (v3 · 필수 범위)
+# 통신사 고객 이탈 예측 및 자동 리텐션 에이전트 프로젝트 계획서 (필수 범위)
 
 > Telco Customer Churn Prediction & Automated Retention Agent
 > 약 2개월(8주) 실전 모의 프로젝트 / 머신러닝·생성형 AI(LLM)·AI Agent 통합
 > 데이터셋: Kaggle Telco Customer Churn (`blastchar/telco-customer-churn`)
 >
-> **이 문서는 필수(MVP) 범위만 담은 버전입니다.** SMOTE·다중 모형 비교·앙상블·SHAP·대시보드·모델 서빙 등 권장·스트레치 항목은 v2 문서(`telco_churn_retention_project_plan_02.md`)를 참조하세요.
+> **이 문서는 필수(MVP) 범위만 담은 버전입니다.** SMOTE·다중 모형 비교·앙상블·SHAP·대시보드·모델 서빙 등 권장·스트레치 항목은 v2 문서(`telco_churn_retention_project_plan_필수+선택.md`)를 참조하세요.
 
 ---
 
@@ -403,4 +403,4 @@ EDA → 전처리/최종DF → (분할 + RandomForest + 부스팅 1종 + 평가)
 3. "API 키 없이도 전체가 동작한다" — 시뮬레이션 모드로 재현성·안정성을 강조합니다.
 4. "테스트로 보호했다" — TDD로 안정성을 확보했음을 보여줍니다.
 
-> 확장 여지(시간 여유 시): 부스팅 다종 비교·앙상블, SHAP 기반 개인화 사유, 대시보드, 모델 서빙 API, 공정성 점검. 자세한 내용은 `telco_churn_retention_project_plan_02.md` 참조.
+> 확장 여지(시간 여유 시): 부스팅 다종 비교·앙상블, SHAP 기반 개인화 사유, 대시보드, 모델 서빙 API, 공정성 점검. 자세한 내용은 `telco_churn_retention_project_plan_필수+선택.md` 참조.

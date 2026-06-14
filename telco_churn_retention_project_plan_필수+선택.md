@@ -1,4 +1,4 @@
-# 통신사 고객 이탈 예측 및 자동 리텐션 에이전트 프로젝트 계획서 (v2)
+# 통신사 고객 이탈 예측 및 자동 리텐션 에이전트 프로젝트 계획서 (필수+선택)
 
 > Telco Customer Churn Prediction & Automated Retention Agent
 > 약 2개월(8주) 실전 모의 프로젝트 / 머신러닝·딥러닝·생성형 AI·LLM 엔지니어링·모델 서빙·AI Agent 통합
